@@ -1,12 +1,23 @@
-# org-metrics
+# GitHub organization metrics
 
 ## I. Overview
 This project focuses on building a user-friendly tool that automates the creation of visually appealing and customizable GitHub organizational profiles, rendered entirely in SVG (Scalable Vector Graphics) format.
 
-## II. Target Users
+## II. What you can receive
+- Learn how to use [Octokit.js](https://github.com/octokit/octokit.js) to interact with the GitHub REST API in your JavaScript scripts.
+- Learn how to build a tool using GitHub Actions.
+- Learn how to contribute to open source software.
+- Receive mentorship throughout the challenge.
+
+### III. Technology
+- Javascript/Typescript
+- CI/CD (Github Actions)
+- Github SDK
+
+## IV. Target Users
 This tool empowers GitHub organizations to streamline the creation of their profiles.
 
-## III. Key Features
+## V. Key Features
 Export the following information as SVG to embed in the README file for data visualization.
 1. Base content, the following sections are supported:
     - `header`: which usually contains organization name and a few additional data.
@@ -32,6 +43,5 @@ Export the following information as SVG to embed in the README file for data vis
     - `member`: Addition of new collaborator in repository.
 7. Github projects.
 
-## IV. What you will learn
-- Learn how to use [Octokit.js](https://github.com/octokit/octokit.js) to interact with the GitHub REST API in your JavaScript scripts.
-- Learn how to build a tool using GitHub Actions.
+## VI. References
+- An infographics generator to display stats about your GitHub account: [https://github.com/lowlighter/metrics](https://github.com/lowlighter/metrics)
