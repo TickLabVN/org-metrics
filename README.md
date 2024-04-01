@@ -44,4 +44,5 @@ Export the following information as SVG to embed in the README file for data vis
 7. Github projects.
 
 ## VI. References
-- An infographics generator to display stats about your GitHub account: [https://github.com/lowlighter/metrics](https://github.com/lowlighter/metrics)
+- An infographics generator to display stats about your GitHub account: [https://github.com/lowlighter/metrics](https://github.com/lowlighter/metrics).
+- A tool to generate your github summary card for profile README: [https://github.com/vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards).
